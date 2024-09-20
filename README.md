@@ -18,5 +18,10 @@ A plugin to automatically sync WordPress blog posts to GitHub.
    2.2. 在设置项填入对应的 GitHub Personal Access Token 和 GitHub Repository ，注意：GitHub Repository 结构是【用户名/仓库名】，如 zimiyu/W2G-sync .
    2.3. 保存，然后新发布文章就会一markdown的格式同步到2.2指定的仓库中.
 3. GitHub Personal Access Token 的获取方法请参考github文档.
-   
- 
+
+# 效果演示
+## 列表
+   ![image](https://github.com/user-attachments/assets/43ca76b7-18aa-4cd6-b425-4f367a7ea483)
+## 内容
+ ![image](https://github.com/user-attachments/assets/af16662d-cc18-45a8-81af-a5deca382ed5)
+
