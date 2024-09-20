@@ -66,8 +66,8 @@ class WP_To_GitHub_Sync {
     }
 
     public function run() {
-        $this->define_admin_hooks();
-//        $this->define_public_hooks();
+//        $this->define_admin_hooks();
+        $this->define_public_hooks();
     }
     
     public function add_github_push_action($actions, $post) {
