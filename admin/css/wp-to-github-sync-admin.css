@@ -1,0 +1,29 @@
+.wp-to-github-sync-admin {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.wp-to-github-sync-admin h2 {
+    color: #23282d;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.wp-to-github-sync-admin .form-table th {
+    width: 200px;
+}
+
+.wp-to-github-sync-admin input[type="text"] {
+    width: 100%;
+    max-width: 400px;
+}
+.github-push {
+    margin-left: 10px !important;
+}
+
+.misc-pub-section .github-push {
+    margin-top: 5px;
+}
